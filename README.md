@@ -1,14 +1,18 @@
-# Face-Recognition-Based-Attendance-System-using-Flask-and-ML
+# Face Recognition Based Attendance System (web app) using Flask and ML(Computer Vision)
 
 Here comes the ultimate project of machine learning based web app which is Face Recognition Based Attendance system . 
 
-Here we are simply running the flask app using the 'flask run' command .
+This amazing ML(computer vision) based web app was created by me and my 3 other friends , as part of a hackathon conducted by our college .
+
+Here's how this works :-
 
 As it is a fresh run , there are 0 users in database.
 
 Lets add a face/user.
 
-Now we can see that now , the number of users in in our database become 1.
+The app is gonna capture 100 images of the student for adding it to the database.These images will be used by a KNN model for training purpose.
+
+Now we can see that  the number of users in in our database has become 1.
 
 Now lets add one more face from internet.
 
@@ -24,8 +28,10 @@ The student's attendance contains the name , id , and time at which the attendan
 
 Let's take another attendance,,,
 
-And here is the second attendance also
+And in the same way as the first , the second attendance will also appear !!
 
 So in this way we can use this project to mark the attendance of the students easily .
+
+And another great feature of this project is everyday individual excel files will be created which will contain the names , id and the attendance time of only those students which our ML algorithm detects through face detecetion , and of course these will be same as students which are present for attending the class . 
 
 Hope you liked the project .
