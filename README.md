@@ -22,7 +22,7 @@ And here it is ...
 
 The student's attendance contains the name , id , and time at which the attendance was marked !!
 
-Let's another attendance,,,
+Let's take another attendance,,,
 
 And here is the second attendance also
 
