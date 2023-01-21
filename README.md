@@ -1,6 +1,6 @@
 # Face Recognition Based Attendance System (web app) using Flask and ML(Computer Vision)
 
-Here comes the ultimate project of machine learning based web app which is Face Recognition Based Attendance system . 
+Here comes the ultimate project of machine learning based web app [Full-Stack Website] which is Face Recognition Based Attendance system . 
 
 This amazing ML(computer vision) based web app was created by me and my 3 other friends , as part of a hackathon conducted by our college .
 
